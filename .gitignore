@@ -85,3 +85,7 @@ ipch/
 CMakeFiles/
 *.cmake
 CMakeCache.txt
+
+# external libs
+lib_external/include/*.h
+lib_external/include/*.hpp
